@@ -22,13 +22,13 @@ body{
 canvas{
     border: salmon solid 5px;
     border-radius: 20px;
-    margin-top: 40px;
+    margin-top: 100px;
     box-shadow: 5px 5px 5px rgb(252, 155, 144);
 }
 
 .copy_right_footer{
     position: fixed;
-    line-height: 3;
+    line-height: 2;
     font-size: 25px;
     width: 100%;
     border-bottom: 25px;
